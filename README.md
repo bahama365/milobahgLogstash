@@ -1,0 +1,2 @@
+# milobahgLogstash
+Docker logstash server
